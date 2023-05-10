@@ -17,7 +17,7 @@
 
 <body>
 
-  ciao
+@yield('content')
 
 </body>
 
